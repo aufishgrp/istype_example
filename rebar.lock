@@ -1,0 +1,5 @@
+[{<<"forms">>,{pkg,<<"forms">>,<<"0.0.1">>},1},
+ {<<"istype">>,
+  {git,"https://github.com/aufishgrp/istype.git",
+       {ref,"618e3cb5f0ef16d6dd603139dec79de6768517bb"}},
+  0}].
